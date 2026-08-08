@@ -10,7 +10,7 @@ class Solution {
             }
         }
 
-        // Fill remaining positions with 0
+        // Fill the remaining positions with zeros
         while (index < nums.length) {
             nums[index] = 0;
             index++;
